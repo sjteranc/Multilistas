@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multilistas", "Multilistas\Multilistas.csproj", "{B98A78A7-AFAF-4F86-B63A-EE15114B575E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B98A78A7-AFAF-4F86-B63A-EE15114B575E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B98A78A7-AFAF-4F86-B63A-EE15114B575E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B98A78A7-AFAF-4F86-B63A-EE15114B575E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B98A78A7-AFAF-4F86-B63A-EE15114B575E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A828959-2C7E-4048-9802-ED23CCB2584B}
+	EndGlobalSection
+EndGlobal

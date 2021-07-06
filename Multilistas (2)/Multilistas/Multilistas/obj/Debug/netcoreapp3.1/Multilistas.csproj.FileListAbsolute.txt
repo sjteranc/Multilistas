@@ -1,0 +1,15 @@
+D:\Repositorios\Multilistas\Multilistas\bin\Debug\netcoreapp3.1\Multilistas.exe
+D:\Repositorios\Multilistas\Multilistas\bin\Debug\netcoreapp3.1\Multilistas.deps.json
+D:\Repositorios\Multilistas\Multilistas\bin\Debug\netcoreapp3.1\Multilistas.runtimeconfig.json
+D:\Repositorios\Multilistas\Multilistas\bin\Debug\netcoreapp3.1\Multilistas.runtimeconfig.dev.json
+D:\Repositorios\Multilistas\Multilistas\bin\Debug\netcoreapp3.1\Multilistas.dll
+D:\Repositorios\Multilistas\Multilistas\bin\Debug\netcoreapp3.1\Multilistas.pdb
+D:\Repositorios\Multilistas\Multilistas\obj\Debug\netcoreapp3.1\Multilistas.csprojAssemblyReference.cache
+D:\Repositorios\Multilistas\Multilistas\obj\Debug\netcoreapp3.1\Multilistas.Form1.resources
+D:\Repositorios\Multilistas\Multilistas\obj\Debug\netcoreapp3.1\Multilistas.csproj.GenerateResource.cache
+D:\Repositorios\Multilistas\Multilistas\obj\Debug\netcoreapp3.1\Multilistas.AssemblyInfoInputs.cache
+D:\Repositorios\Multilistas\Multilistas\obj\Debug\netcoreapp3.1\Multilistas.AssemblyInfo.cs
+D:\Repositorios\Multilistas\Multilistas\obj\Debug\netcoreapp3.1\Multilistas.csproj.CoreCompileInputs.cache
+D:\Repositorios\Multilistas\Multilistas\obj\Debug\netcoreapp3.1\Multilistas.dll
+D:\Repositorios\Multilistas\Multilistas\obj\Debug\netcoreapp3.1\Multilistas.pdb
+D:\Repositorios\Multilistas\Multilistas\obj\Debug\netcoreapp3.1\Multilistas.genruntimeconfig.cache
